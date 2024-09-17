@@ -1,1 +1,3 @@
 # startup
+
+# learn new things
